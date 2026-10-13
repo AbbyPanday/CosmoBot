@@ -1,0 +1,6 @@
+{
+  "name": "CosmoBot AI Companion - Interactive 3D Cosmic Space Companion & Academy",
+  "description": "An interactive 3D robotic companion in deep space with real-time zero-G physics, emotive OLED pixel visor expressions, voice synthesizer, and orbital mechanics playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
